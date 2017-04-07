@@ -1,5 +1,4 @@
 Function Get-PendingReboot
-#just messing around to see change in git
 {
 <#
 .SYNOPSIS
